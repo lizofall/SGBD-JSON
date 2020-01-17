@@ -1,0 +1,18 @@
+{
+
+    "students": {
+        
+        "1": {"first_name": "Rigou Riigou", "gender": "Feminin", "last_name": "THIAM", "marital_status": "Mari\u00c3\u00a9e"}, 
+        "2": {"first_name": "Peindalizo", "gender": "Feminin", "last_name": "FALL", "marital_status": "Mari\u00c3\u00a9e"},
+        "3": {"first_name": "The Dean", "gender": "Masculin", "last_name": "NDOYE", "marital_status": "C\u00c3\u00a9libataire"},
+        "4": {"first_name": "Mame Maty", "gender": "femimin", "last_name": "MBENGUE", "marital_status": "marie"}, 
+        "5": {"first_name": "mouhamed", "gender": "masculin", "last_name": "thiam", "marital_status": "celib"}, 
+        "6": {"first_name": "inconnu", "gender": "Null", "last_name": "inconnu", "marital_status": "Null"}, 
+        "7": {"first_name": "one", "gender": "Null", "last_name": "another", "marital_status": "Null"},
+        "8": {"first_name": "adja", "gender": "Null", "last_name": "traore", "marital_status": "Null"}, 
+        "9": {"first_name": "abdou", "gender": "masculin", "last_name": "seck", "marital_status": "celib"}},
+    
+        "teachers": {
+
+        }
+    }

@@ -1,0 +1,70 @@
+//fichier de configuration
+
+{
+    "database_1":{
+        "table_1":["field_1","field_2","field_3"],
+        "table_2":["field_1","field_2","field_3"]
+    },
+    "database_2":{
+        "table_1":["field_1","field_2","field_3"],
+        "table_2":["field_1","field_2"],
+        "table_3":["field_1","field_2","field_3","field_4"],
+        "table_4":["field_1","field_2","field_3"]
+    }
+
+}
+
+// fichier correspondant à une base de données
+
+{
+    "table_1" : {
+        "id_1":{
+            "champ_1" : "valeur_1",
+            "champ_2" : "valeur_2"
+        }
+
+    },
+    "table_2":{
+        "id_2":{
+            "champ_1" : "valeur_1",
+            "champ_2" : "valeur_2"
+        }
+    }
+}
+
+//Exemples
+
+{
+    "schools":{
+        "students":["last_name","first_name","gender","marital_status"],
+        "teachers":[]
+    }
+
+}
+
+
+{
+    "students":{
+        "1":{
+            "last_name":"THIAM",
+            "first_name":"Rigou Riigou",
+            "gender":"Feminin",
+            "marital_status":"Mariée"
+        },
+        "2":{
+            "last_name":"FALL",
+            "first_name":"Peindalizo",
+            "gender":"Feminin",
+            "marital_status":"Mariée"
+        },
+        "3":{
+            "last_name":"NDOYE",
+            "first_name":"The Dean",
+            "gender":"Masculin",
+            "marital_status":"Célibataire"
+        }
+    },
+        "teachers":{
+            
+            }  
+    }

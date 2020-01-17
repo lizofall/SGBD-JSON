@@ -1,0 +1,26 @@
+if(tabRequet[0]=="update"):
+   
+    for i in range (3,(len(tabRequet)-1)):
+   
+        if(tabRequet[i] == "where"):
+   
+            break
+   
+        else:
+   
+            k=k+1
+   
+            champ.append(tabRequet[i])
+   
+        update = {
+            'nature': "update",
+            'table': tabRequet[1],
+            'fields':champ,
+            'id': tabRequet[k+4],
+            'values': tabRequet[(len(tabRequet)-1)]
+    }
+
+
+
+
+
